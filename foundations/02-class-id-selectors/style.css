@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 102, 102);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: rgb(19, 113, 255);
+    font-size: 36px;
+}
+
+/* Number 3 and Number 4 both have 24px font size, so reusing */
+.font-24 {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(107, 255, 107);
+    font-weight: bold;
+}
